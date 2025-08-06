@@ -16,7 +16,6 @@
           {
             "group": "Getting started",
             "pages": [
-              "README",
               "quickstart"
             ]
           },
@@ -30,7 +29,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Configurations",
             "pages": [
               "ai-tools/settings"
             ]
@@ -66,7 +65,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@fixiol.com"
       }
     ],
     "primary": {
